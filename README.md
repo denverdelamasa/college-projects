@@ -1,0 +1,3 @@
+These are the projects I made for my "supposedly group activity" *solo-ed cough cough* which I think was kinda fun and abit nostalgic to think about...
+
+I made these WITHOUT AI, and I'm still kinda proud that I pulled this off, the ascii if else statements is kinda scaring me tho what in the hell!!!
