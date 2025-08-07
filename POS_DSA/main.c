@@ -339,7 +339,7 @@ printf(R"EOF(
 )EOF");
 }
 
-void main(void)
+int main(void)
 {
 int USER_INPUT, QUANTITY;
 double PRICE, AMOUNT, TOTAL_AMOUNT;
